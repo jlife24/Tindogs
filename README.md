@@ -1,3 +1,3 @@
-TinDog Starting Files
+This modern, user friendly, intuitive website was to help generate traffic rates, increase in customers & local business revenue for the client.
 
-(My Linke)(https://jlife24.github.io/Tindogs/)
+Link to Project: (https://jlife24.github.io/Tindogs/)
